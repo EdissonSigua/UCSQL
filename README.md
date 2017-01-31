@@ -1,2 +1,14 @@
 # UCSQL
-Proyecto que simula a una Base de Datos con Archivos CSV
+Gestor de Base de Datos con Archivos CSV
+
+Autores: Edisson Fernando Sigua Loja
+         David Efráin Buñay Moncayo
+         Mateo Estuardo Qhizphi Peralta
+
+Asignatura: Programación III - Estructura de Archivos
+
+Escuela de Ingeniería de Sistemas
+
+Facultad de Ingeniería
+
+Universidad de Cuenca
