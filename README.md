@@ -14,3 +14,6 @@ Escuela de Ingeniería de Sistemas
 Facultad de Ingeniería
 
 Universidad de Cuenca
+
+Enlace del código: http://www.slideshare.net/davidebunay/presentacin-de-ucsql
+
