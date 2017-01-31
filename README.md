@@ -7,6 +7,8 @@ Autores: Edisson Fernando Sigua Loja,
 
 Asignatura: Programación III - Estructura de Archivos
 
+Docente: Ing. Ángel Vásquez
+
 Escuela de Ingeniería de Sistemas
 
 Facultad de Ingeniería
