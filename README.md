@@ -15,5 +15,5 @@ Facultad de Ingeniería
 
 Universidad de Cuenca
 
-Enlace del código: http://www.slideshare.net/davidebunay/presentacin-de-ucsql
+Enlace de la presentación: http://www.slideshare.net/davidebunay/presentacin-de-ucsql
 
