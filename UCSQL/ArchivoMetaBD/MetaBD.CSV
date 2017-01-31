@@ -1,0 +1,9 @@
+Borrado_Logico;Nombre_Tabla;Numero_Campos;Campos;Campo_Clave;Longitud_Campos
+0;tabla100;5;cedula,ruc,apellidos,materia,calificacion;cedula;30
+0;empresa;3;nombre,RUC,direccion;RUC;68
+0;estudiantes;5;ruc,nombre,apellidos,materia,calificacion;ruc;30
+0;tabla1;3;edad,dia,peso;edad;30
+0;tabla3;4;kilometraje,resistencia,peso,edad;kilometraje;30
+0;tabla99;5;cedula,ruc,apellidos,materia,calificacion;cedula;30
+0;tabla200;5;cedula,ruc,apellidos,materia,calificacion;cedula;30
+0;tabla9;5;cedula,ruc,apellidos,materia,calificacion;cedula;30
